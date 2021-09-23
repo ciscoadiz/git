@@ -17,18 +17,18 @@ Estas son algunas de sus caracteristicas. Lo que lo convierte en una herramienta
 Primero compruebo si mi sistema tiene instalado git introduciendo este comando:
 
 ```shell:
-daw@dpl21-ubuntuserver2004:~$ git --version
+git --version
 ```
 ![imagen 1.1](img/1.1.png "img 1.1")
 
 Si obtenemos esta salida en terminal es que ya lo tenemos instalado
-```
-git version 2.30.2
-```
+
+    git version 2.30.2
+
 ![imagen 1.2](img/1.2.png "img 1.2")
 En caso contrado ingresamos los siguientes comandos en nuestra shell:
 
 ```
-daw@dpl21-ubuntuserver2004:~$ sudo apt update && sudo apt install git
+sudo apt update && sudo apt install git
 ```
 
