@@ -26,6 +26,7 @@ Si obtenemos esta salida en terminal es que ya lo tenemos instalado
     git version 2.30.2
 
 ![imagen 1.2](img/1.2.png "img 1.2")
+
 En caso contrado ingresamos los siguientes comandos en nuestra shell:
 
 ```
